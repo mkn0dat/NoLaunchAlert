@@ -1,0 +1,9 @@
+Package: com.mkn0dat.nolaunchalert
+Name: NoLaunchAlert
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Disable the launch alert in your selected applications. (e.g., Message.app says "Turn Off Airplane Mode...")
+Maintainer: mkn0dat
+Author: mkn0dat
+Section: Tweaks

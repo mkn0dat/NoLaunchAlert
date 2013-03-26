@@ -1,0 +1,10 @@
+{
+	entry = {
+		bundle = "NoLaunchAlertPrefBundle";
+		cell = PSLinkCell;
+		detail = "NoLaunchAlertPrefBundleListController";
+		icon = "/Applications/Preferences.app/Settings.png";
+		isController = 1;
+		label = NoLaunchAlert;
+	};
+}
